@@ -1,5 +1,5 @@
-<h1># HTML5-CSS3-Materialize</h1>
-<p> A simple static page with no functionality, as part of my Frontend Development learning of HTML5+CSS3+Materialize.</p>
+<h1># HTML5-Materialize</h1>
+<p> A simple static page with no functionality, as part of my Frontend Development learning of HTML5+Materialize.</p>
 
 
 
